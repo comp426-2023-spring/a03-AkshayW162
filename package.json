@@ -1,0 +1,24 @@
+{
+  "name": "akshay-walavalkar-modules",
+  "version": "1.0.0",
+  "description": "The purpose of this assignment is to create an installable Node.js module package.",
+  "main": "./lib/rpsls.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a03-AkshayW162.git"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "module"
+  ],
+  "author": "@akshayw162",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a03-AkshayW162/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a03-AkshayW162#readme"
+}
