@@ -1,10 +1,10 @@
 {
-  "name": "akshay-walavalkar-modules",
+  "name": "node-rpsls",
   "version": "1.0.0",
   "description": "The purpose of this assignment is to create an installable Node.js module package.",
   "main": "./lib/rpsls.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
