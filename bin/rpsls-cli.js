@@ -46,7 +46,7 @@ if (args.r || args.rules) {
 //Unlabeled argument is supplied but is out of range
 let shot = args._[0] 
 try {
-	console.log(JSON.stringify(rps(shot))); 
+	console.log(JSON.stringify(rpsls(shot))); 
 } catch (e) {
 	console.log(
         `Usage: node-rpsls [SHOT]
