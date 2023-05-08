@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The purpose of this assignment is to create an installable Node.js module package.",
   "main": "./lib/rpsls.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +27,7 @@
     "node-rpsls": "./bin/rpsls-cli.js"
   },
   "dependencies": {
-    "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "node-rps": "^0.0.4"
   }
 }
